@@ -6,8 +6,6 @@ This project was designed so that when anyone views the webpage, they can easily
 Dev Tools so that when anyone views an element of the page, it is comprehensible and provides useful information on what exactly it is they're
 looking at. Over the time it took me to add the semantic HTML elements to the page, and other critical features like organization and other things, I've gotten more of an extended knowledge on HTML and CSS. The page should now be accessible to people all over the internet and will make sense to other developers when they look at the code structure. Link to the webpage: https://nickloeffler999.github.io/search-engine-optimization/
 
-![nickloeffler999 github io_search-engine-optimization_](https://nickloeffler999.github.io/search-engine-optimization/)
-
 ## Installation
 
 N/A
